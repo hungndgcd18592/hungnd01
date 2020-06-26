@@ -238,18 +238,10 @@
   <div class="row">
    <div class="col-12">
      <div class="owl-theme" id="brand">
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/gucci.jpg" alt="Gucci logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/levis.jpg" alt="Levi's logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/LV.jpg" alt="Louis Vuitton logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/adidas.jpg" alt="Adidas logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/chanel.png" alt="Chanel logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/dior.jpg" alt="Dior logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/burberry.jpg" alt="Burberry logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/versace.jpg" alt="Versace logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/lacoste.jpg" alt="Lacoste logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/H&M.jpg" alt="H&M logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/fendi.jpg" alt="Fendi logo"></a>
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/CK.jpg" alt="Calvin Klein logo"></a>
+      <a href="javascript:void(0)" class="owl__item"><img src="images/home/lego.jpg" alt="Lego logo"></a>
+      <a href="javascript:void(0)" class="owl__item"><img src="images/home/nintendo.jpg" alt="Nintendo logo"></a>
+      <a href="javascript:void(0)" class="owl__item"><img src="images/home/bandai.png" alt="Bandai logo"></a>
+      <a href="javascript:void(0)" class="owl__item"><img src="images/home/littletikes.jpg" alt="Little Tikes logo"></a>
     </div>
   </div>
 </div>
