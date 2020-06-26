@@ -102,7 +102,7 @@
 <!-- =========== END MENU ========-->
 <!-- =========== START BANNER ========-->
 <section class="banner">
-  <img src="images/home/banner2.jpg" alt="banner">
+  <img src="images/home/bannertoy.jpg" alt="banner">
 </section>
 <!-- =========== END BANNER ========-->
 <!-- =========== START POSITION ========-->
@@ -111,9 +111,9 @@
     <div class="row">
       <div class="col-12 col-md-6">
         <div class="position__item position__right">
-          <img src="images/home/men.jpg" alt="men">
+          <img src="images/home/forboy.jpg" alt="For Boy">
           <div class="position_over">
-           <h6 class="text-center text-uppercase">Men</h6>
+           <h6 class="text-center text-uppercase">For Boy</h6>
          </div>
          <a href="javascript:void(0)" title=""></a>
        </div>
@@ -121,9 +121,9 @@
      <!-- end column -->
      <div class="col-12 col-md-6">
       <div class="position__item position__right">
-        <img src="images/home/women1.jpg" alt="women">
+        <img src="images/home/forgirl.jpg" alt="For Girl">
         <div class="position_over">
-         <h6 class="text-center text-uppercase">Women</h6>
+         <h6 class="text-center text-uppercase">For Girl</h6>
        </div>
        <a href="javascript:void(0)" title=""></a>
      </div>
@@ -238,7 +238,7 @@
   <div class="row">
    <div class="col-12">
      <div class="owl-theme" id="brand">
-      <a href="javascript:void(0)" class="owl__item"><img src="images/home/lego.jpg" alt="Lego logo"></a>
+      <a href="javascript:void(0)" class="owl__item"><img src="images/home/lego.png" alt="Lego logo"></a>
       <a href="javascript:void(0)" class="owl__item"><img src="images/home/nintendo.jpg" alt="Nintendo logo"></a>
       <a href="javascript:void(0)" class="owl__item"><img src="images/home/bandai.png" alt="Bandai logo"></a>
       <a href="javascript:void(0)" class="owl__item"><img src="images/home/littletikes.jpg" alt="Little Tikes logo"></a>
