@@ -102,7 +102,7 @@
 <!-- =========== END MENU ========-->
 <!-- =========== START BANNER ========-->
 <section class="banner">
-  <img src="images/home/bannertoy.jpg" alt="banner">
+  <img src="images/home/bannertoy1.jpg" alt="banner">
 </section>
 <!-- =========== END BANNER ========-->
 <!-- =========== START POSITION ========-->
