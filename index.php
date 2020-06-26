@@ -147,10 +147,10 @@
         <div class="product__item">
           <article>
            <div class="article__img mb-4">
-            <a href="javascript:void(0)" title=""><img src="images/home/90s-Nostalgia.jpg" alt="90s Nostalgia"></a>
+            <a href="javascript:void(0)" title=""><img src="images/home/toy1.jpg" alt="Scooter Walker"></a>
           </div>
           <div class="article__content">
-           <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">90s Nostalgia</a></h5>
+           <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">Scooter Walker</a></h5>
          </div>
        </article>
      </div>
@@ -160,10 +160,10 @@
     <div class="product__item">
       <article>
        <div class="article__img mb-4">
-        <a href="javascript:void(0)" title=""><img src="images/home/Yellow-Maxi-Coats.jpg" alt="Yellow Maxi Coats"></a>
+        <a href="javascript:void(0)" title=""><img src="images/home/toy2.jpg" alt="Dragon Gun"></a>
       </div>
       <div class="article__content">
-       <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">Yellow Maxi Coats</a></h5>
+       <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">Dragon Gun</a></h5>
      </div>
    </article>
  </div>
@@ -173,10 +173,10 @@
   <div class="product__item">
     <article>
      <div class="article__img mb-4">
-      <a href="javascript:void(0)" title=""><img src="images/home/Linen-Suits.jpg" alt="Linen Suits"></a>
+      <a href="javascript:void(0)" title=""><img src="images/home/toy3.jpg" alt="Autobot Optimus Prime"></a>
     </div>
     <div class="article__content">
-     <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">Linen Suits</a></h5>
+     <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">Autobot Optimus Prime</a></h5>
    </div>
  </article>
 </div>
