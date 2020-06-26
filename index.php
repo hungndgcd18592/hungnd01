@@ -186,10 +186,10 @@
   <div class="product__item">
     <article>
      <div class="article__img mb-4">
-      <a href="javascript:void(0)" title=""><img src="images/home/Oversized_Shoulder_Jackets.jpg" alt="Oversized Shoulder Jackets"></a>
+      <a href="javascript:void(0)" title=""><img src="images/home/toy4.jpg" alt="Anna LEGO"></a>
     </div>
     <div class="article__content">
-     <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">Oversized Shoulder Jackets</a></h5>
+     <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">Anna LEGO</a></h5>
    </div>
  </article>
 </div>
@@ -199,10 +199,10 @@
   <div class="product__item">
     <article>
      <div class="article__img mb-4">
-      <a href="javascript:void(0)" title=""><img src="images/home/Pastel-Colour-Palettes.jpg" alt="Pastel Colour Palettes"></a>
+      <a href="javascript:void(0)" title=""><img src="images/home/toy5.jpg" alt="LEGO FRIENDS HEARTLAKE CITY"></a>
     </div>
     <div class="article__content">
-     <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">Pastel Colour Palettes</a></h5>
+     <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">LEGO FRIENDS HEARTLAKE CITY</a></h5>
    </div>
  </article>
 </div>
@@ -212,10 +212,10 @@
   <div class="product__item">
     <article>
      <div class="article__img mb-4">
-      <a href="javascript:void(0)" title=""><img src="images/home/Animal-Instincts.jpg" alt="Animal Instincts"></a>
+      <a href="javascript:void(0)" title=""><img src="images/home/toy6.jpg" alt="SCHLEICH DINOSAUR"></a>
     </div>
     <div class="article__content">
-     <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">Animal Instincts</a></h5>
+     <h5 class="text-center"><a href="javascript:void(0)" title="" class="h-limit text-uppercase">SCHLEICH DINOSAUR</a></h5>
    </div>
  </article>
 </div>
@@ -292,7 +292,7 @@
   <div class="row">
     <div class="col-12">
       <div class="coppyright text-center">
-        Copyright 2020 © Fashion Store In Da Nang
+        Copyright 2020 © ATN Store In Da Nang
       </div>
     </div>
   </div>
